@@ -1,0 +1,15 @@
+#cont1 {
+	width: 100%;
+	height: 100px;
+	background-color: black;
+}
+
+#cont2 {
+	
+	width: 100%;
+	height: 567px;
+	background-image: url(assets/big_img.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+ 
